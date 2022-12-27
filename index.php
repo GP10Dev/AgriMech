@@ -25,13 +25,13 @@
             <table>
                 <tr>
                     <td>
-                        <img src="" alt="service pic agri Mech"/>
+                        <img src="./img/onfarm_repair.jpg" alt="service pic agri Mech"/>
                     </td>
                     <td>
-                        <img src="" alt="Replace pic agri Mech"/>
+                        <img src="./img/onfarm_repair.jpg" alt="Replace pic agri Mech"/>
                     </td>
                     <td>
-                        <img src="" alt="repair pic agri Mech"/>
+                        <img src="./img/onfarm_repair.jpg" alt="repair pic agri Mech"/>
                     </td>
                 </tr>
                 <tr>
