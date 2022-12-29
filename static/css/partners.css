@@ -1,0 +1,11 @@
+div.partner{
+    width: calc(100%/6);
+    float: left;
+    padding: 5px 10px;
+    /* box-shadow: 5px 5px 10px black; */
+    border: 1px solid grey;
+}
+div.partner img{
+    width: 100%;
+    height: 100px;
+}
