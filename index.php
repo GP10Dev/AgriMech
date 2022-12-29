@@ -61,6 +61,9 @@
             <p>Since 2022, AgriMech Solutions has been supporting the farming community in Banda and surrounding areas, by providing top quality servicing and repairs to tractors and all types of farm vehicles and equipment. Our experienced and skilled team of mechanics have been able to do this either at our customer's premises or at our workshop.</p>
             <p>We also are main dealers for a wide range of farming equipment, including the amazing range of Landini tractors. So whether you need to Repair, Replace or Restore, give us a call on  +256706083050</p>
         </div>
+        <div>
+            <?php include "./includes/partners.html" ; ?>
+        </div>
     </section>
     <!-- end main -->
     <footer>
