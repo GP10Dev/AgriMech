@@ -62,6 +62,7 @@
             <p>We also are main dealers for a wide range of farming equipment, including the amazing range of Landini tractors. So whether you need to Repair, Replace or Restore, give us a call on  +256706083050</p>
         </div>
         <div>
+            <h3>Our Partners</h3>
             <?php include "./includes/partners.html" ; ?>
         </div>
     </section>
