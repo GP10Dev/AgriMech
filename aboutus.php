@@ -28,6 +28,7 @@
             </div>
         </div>
         <div id="careers">
+          <h3>Careers</h3>
             <div class="post">
                 <h3>Agricultural Equipment Technician</h3>
                 <p>We are seeking a highly skilled Agricultural Equipment Technician to join our team. The successful candidate will have a strong background in agricultural mechanics and a proven track record of successfully repairing and maintaining a variety of farming equipment.</p>
