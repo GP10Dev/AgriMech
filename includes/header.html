@@ -6,11 +6,17 @@
 <section class="header-col">
     <nav>
         <ul>
-            <li>Home</li>
-            <li>About us</li>
-            <li>Service & Products</li>
+            <a href="index.php"><li>Home</li></a>
+            <a  href="aboutus.php"><li id="abtus" onmouseleave="hide(this.id)" onmouseover="list(this.id)">About us
+                <ul class="dropdown abtus">
+                    <a href="aboutus.php#history"><li>Our hostory</li></a>
+                    <hr>
+                    <a href="aboutus.php#careers"><li>Careers</li></a>
+                </ul>
+            </li></a>
+                
+            <a href="services.php"><li>Service & Products</li></a>
             <li>Contact us</li>
-            <li>Careers</li>
             <li>Latest</li>
             <li class="button">Hire us</li>
         </ul>

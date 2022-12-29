@@ -13,6 +13,10 @@ h3{font-size: 1.3rem;}
 h4{font-size: 1.1rem;} 
 
 .cls{clear: both; min-height: 2px;}
+
+a, a:link, a:visited, a:focus, a:hover, a:active{
+    color: black;
+}
 /* header */
 header{
     background-color: rgb(247, 112, 2);
@@ -53,6 +57,19 @@ nav ul li:hover{
     box-shadow: 0 5px 5px black;
 }
 
+.dropdown{
+    display: none;
+    width: 150px;
+    position: absolute;
+    top: 40px;
+    background-color: brown;
+    color: white;
+    box-shadow: 2px 2px 5px grey;
+}
+.dropdown li{
+    display: block;
+}
+
 
 /* footersection */
 footer{
@@ -64,5 +81,5 @@ footer{
 }
 .foot-col{
     float: left;
-    width: 300px;
+    width: calc(100%/3);
 }

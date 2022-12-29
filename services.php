@@ -10,25 +10,7 @@
 </head>
 <body>
     <header>
-        <section class="header-col" id="head">
-            <div>
-                <h1>AgriMech Solutions</h1>
-            </div>
-        </section>
-        <section class="header-col">
-            <nav>
-                <ul>
-                    <li>Home</li>
-                    <li>About us</li>
-                    <li>Service & Products</li>
-                    <li>Contact us</li>
-                    <li>Careers</li>
-                    <li>Latest</li>
-                    <li class="button">Hire us</li>
-                </ul>
-            </nav>
-        </section>
-        <div class="cls"></div>
+        <?php require "./includes/header.html" ; ?>
     </header>
     <!-- main -->
     <section class="main">
@@ -49,5 +31,6 @@
     <footer>
         <?php require "./includes/footer.html" ; ?>
     </footer>
+    <script src="./static/js/navhover.js"></script>
 </body>
 </html>

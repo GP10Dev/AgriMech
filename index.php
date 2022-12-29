@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <?php require "./static/css/includes/header.html" ; ?>
+        <?php require "./includes/header.html" ; ?>
     </header>
     <!-- main -->
     <section class="main">
@@ -64,7 +64,8 @@
     </section>
     <!-- end main -->
     <footer>
-        <?php require "./static/css/includes/footer.html" ; ?>
+        <?php require "./includes/footer.html" ; ?>
     </footer>
+    <script src="./static/js/navhover.js"></script>
 </body>
 </html>
