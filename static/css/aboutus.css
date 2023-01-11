@@ -1,0 +1,35 @@
+#history{
+    /* float: left; */
+    width: 100%;
+    padding: 20px 50px;
+}
+
+.post{
+    background-color: rgba(255, 136, 24, 0.337);
+    margin: 5px;
+    padding: 10px;
+}
+.details{
+    display: none;
+}
+#history{
+    position: absolute;
+    top: 100px;
+}
+#history p{
+    margin: 10px;
+}
+#history div{
+    float: left;
+    width: 50%;
+}
+
+#careers{
+    position: absolute;
+    top: 640px;
+    padding: 10px 50px;
+}
+footer{
+    position: absolute;
+    top: 1100px;
+}

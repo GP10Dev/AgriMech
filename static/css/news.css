@@ -1,0 +1,10 @@
+.main{
+    padding: 10px 150px;
+}
+.newspost{
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(231, 206, 135);
+    background-color: rgb(252, 228, 197);
+}

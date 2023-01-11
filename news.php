@@ -7,6 +7,7 @@
     <title>AgriMech Solutions</title>
 
     <link href="./static/css/index.css" rel="stylesheet" />
+    <link href="./static/css/news.css" rel="stylesheet" />
 </head>
 <body>
     <header>

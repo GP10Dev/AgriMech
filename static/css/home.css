@@ -1,0 +1,70 @@
+
+div#scn1{
+    text-align: center;
+    min-height:500px  ;
+    background-color: aquamarine;
+    align-items: center;
+    background-image: url("./../img/istockphoto-1133754671-612x612.jpg");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+div#scn1 div{
+    position: relative;
+    top: 200px;
+    background-color: rgba(0, 0, 0, 0.367);
+    color: white;
+}
+div#scn1 button{
+    margin: 30px;
+    padding: 15px;
+}
+
+#scn2{
+    padding: 10px 100px;
+}
+#scn2 h2{
+    text-align: center;
+    margin: 10px;
+}
+#scn2 td{
+    width: 30%;
+    /* margin: 10px; */
+    padding: 5px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+#scn2 td img{
+    width: 100%;
+}
+.subhead{
+    font-weight: bold;
+}
+.topCol{
+    border-top: 1px solid black;
+}
+.endRow{
+    border-bottom: 1px solid black;
+    color: purple;
+}
+#scn3{
+    padding: 30px 100px;
+}
+#scn3 p{
+    padding: 15px 0
+}
+
+a, 
+a:visited, 
+a:visited, 
+a:focus, 
+a:link{
+    text-decoration: none;
+}
+
+.more{
+    width: 100%; color:
+}
+a .more{
+    color: blueviolet;
+}
